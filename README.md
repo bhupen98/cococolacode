@@ -4,7 +4,7 @@
 - ⚡ _League of legends is my favourite 💚 online game of all the times_
 - ⛄ _**fun facts**: _Snakes can help predict earthquakes_.<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cococolacode&layout=compact)](https://github.com/cococolacode/github-readme-stats)
-![Bhupendra's github stats](https://github-readme-stats.vercel.app/api?username=cococolacode&show_icons=true&theme=gruvbox&height=1)
+[![Bhupendra's github stats](https://github-readme-stats.vercel.app/api?username=cococolacode&show_icons=true&theme=gruvbox&layout=compact)]
 
 
 
