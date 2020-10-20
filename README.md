@@ -5,7 +5,7 @@
 - ⛄ _**fun facts**: _Snakes can help predict earthquakes_.<br/>
 ## _Github Stats and Informations📚_
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cococolacode&layout=compact)](https://github.com/cococolacode/github-readme-stats)
-![Bhupendra's github stats](https://github-readme-stats.vercel.app/api?username=cococolacode&layout=compact&show_icons=true)
+![Bhupendra's github stats](https://github-readme-stats.vercel.app/api?username=cococolacode&layout=compact&show_icons=true&layout=compact)
 
 
 
